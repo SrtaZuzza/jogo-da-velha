@@ -1,14 +1,6 @@
-# Jogo da Velha
+# Jogo da velha
 
-Projeto produzido para um bootcamp em parceria com a [Digital Innovation One](https://digitalinnovation.one).
+Projeto criado para o curso **"Criando seu próprio jogo da velha com HTML e Javascript"** da [DIO.me](https://web.dio.me/).
 
-# Descrição do projeto
-Neste projeto, desenvolvemos juntos um jogo da velha utilizando HTML, CSS e Javascript.
-
-## Para rodar o projeto
-
-Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
-
-## Links
-
-[PPT utilizado](https://docs.google.com/presentation/d/1-ao-3echbBHzdSqRF726K4GUFMn7JoL0dhoJWyPORXY/edit?usp=sharing)
+ - [Jogue online agora!](https://srtazuzza.github.io/jogo-da-velha/)
+ - [Projeto original](https://github.com/ruschoni02/jogo-da-velha)
